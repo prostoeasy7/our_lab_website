@@ -1,9 +1,9 @@
 ---
 ---
 
-# prostoeasy7's Website
+# Our lab Website
 
-An engaging 1-3 sentence description of your lab.
+Visual Analytics for Knowledge Laboratory (VIS2KNOW Lab), Department of Applied AI, Sungkyunkwan University, Seoul, Republic of Korea
 
 {% include section.html %}
 
