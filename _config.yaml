@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: VIS2KNOW Lab
+title: VIS2KNOW
 subtitle: Research lab at SKKU
-description: Visual Analytics for Knowledge Laboratory (VIS2KNOW Lab), Department of Applied AI
+description: "Visual Analytics for Knowledge Laboratory (VIS2KNOW Lab), Department of Applied AI"
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
